@@ -14,7 +14,7 @@ export default function Account() {
                         <table className='table table-bordered '>
                             <thead>
                                 <tr>
-                                    <th>Blance</th>
+                                    <th>Balence</th>
                                     <th>Full Name</th>
                                     <th>Mobile</th>
                                 </tr>

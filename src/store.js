@@ -23,9 +23,9 @@ const userSlice=createSlice({
             state.balance+=+action.payload;
         },
         reset:(state)=>{
-            state.fullName="",
-            state.mobile=null,
-            state.balance=0
+            state.fullName="";
+            state.mobile=null;
+            state.balance=0;
         }
     }
 
